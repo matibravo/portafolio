@@ -1,1 +1,1 @@
-Hola, este repositorio contiene una pagina web de ejemplo de curriculum en línea, se puede visualizar en la siguiente url: https://matibravo.github.io/portafolio/
+Hola, este repositorio contiene una pagina web de ejemplo de curriculum en línea, se puede visualizar en la siguiente url: https://matibravo.github.io/portafolio/ y utiliza tecnologias como html, css, bootstrap y js.
